@@ -8,6 +8,6 @@ describe '#meal_choice' do
   end
 end
 
-def meal_choice("")
+def meal_choice("meat")
 
 end
